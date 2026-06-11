@@ -1,6 +1,6 @@
 # OpenFrame for Cinema 4D
 
-**OpenFrame** is a lightweight, professional grayscalegorilla Social Frame plugin alternative for Cinema 4D (optimized for C4D 2026+) that overlays social media aspect ratio guides directly in your viewport.
+**OpenFrame** is a lightweight, professional Social Frame plugin alternative for Cinema 4D (optimized for C4D 2026+) that overlays social media aspect ratio guides directly in your viewport.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![C4D](https://img.shields.io/badge/Cinema%204D-2026%2B-orange.svg)

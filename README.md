@@ -1,4 +1,4 @@
-# 🎥 OpenFrame for Cinema 4D
+# OpenFrame for Cinema 4D
 
 **OpenFrame** is a lightweight, professional grayscalegorilla Social Frame plugin alternative for Cinema 4D (optimized for C4D 2026+) that overlays social media aspect ratio guides directly in your viewport.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Standard Social Ratios**: One-click toggles for:
   - `1:1` (Square - Instagram/Post)
@@ -20,7 +20,7 @@
 - **Color Customization**: Pick any color for your guides to ensure visibility against your scene.
 - **2D Overlay**: Clean, screen-space drawing that respects your camera's safe frames.
 
-## 🚀 Installation
+## Installation
 
 1. **Download** the `OpenFrame` folder.
 2. **Locate your Plugins folder**:
@@ -31,14 +31,14 @@
 3. **Copy** the `OpenFrame` folder into that directory.
 4. **Restart** Cinema 4D.
 
-## 🛠 Usage
+## Usage
 
 1. **Add the Tag**: Right-click on any **Camera** object in your Object Manager.
 2. Navigate to **Tags** > **Extensions** > **OpenFrame** (or use the Shift+C commander and type "Open Frame").
 3. **Select Ratios**: In the Tag attributes, check the boxes for the ratios you want to visualize.
 4. **Customize**: Adjust the color or enter a custom ratio if needed.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 OpenFrame/
@@ -51,7 +51,7 @@ OpenFrame/
 └── README.md          # This file
 ```
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 

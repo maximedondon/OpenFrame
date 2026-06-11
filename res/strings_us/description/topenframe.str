@@ -1,0 +1,18 @@
+STRINGTABLE topenframe
+{
+    topenframe "Open Frame";
+
+    OPENFRAME_MAIN_GROUP "Settings";
+    OPENFRAME_GROUP_RATIOS "Aspect Ratios";
+    OPENFRAME_GROUP_DISPLAY "Display";
+
+    OPENFRAME_ENABLE_1_1 "1:1 (Square)";
+    OPENFRAME_ENABLE_4_5 "4:5 (Portrait)";
+    OPENFRAME_ENABLE_9_16 "9:16 (Stories)";
+    OPENFRAME_ENABLE_16_9 "16:9 (Landscape)";
+    OPENFRAME_ENABLE_CUSTOM "Custom Ratio";
+    OPENFRAME_CUSTOM_W "Width";
+    OPENFRAME_CUSTOM_H "Height";
+
+    OPENFRAME_COLOR "Guide Color";
+}
